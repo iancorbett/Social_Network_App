@@ -15,7 +15,7 @@ In order to contribute to this page, you need to have permission from the reposi
 
 Sources:
 
-
+For this project, I did not have any starter code or copy any code from other projects or repositories. However, I did receive help from a tutor named Joem. 
 
 Link to walk through of Project:
 
