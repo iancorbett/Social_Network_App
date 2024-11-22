@@ -6,7 +6,7 @@ Description:
 
 User instructions:
 
-
+This is not a deployed repo, so anyone looking to use this application will have run it locally in their own code editor, instead of using it in the browser. Firstly, the repo must be cloned and opened in a code editor, such as VSCode which is what I use in the walkthrough. Then the necessary packages must be installed. You will need MongoDB and express for this application to work. You will run the server file in the integrated terminal to start the application. You will then need to open up the insomnia app, as well as the mongoDB compass. However, you will need to build the routes in insomnia. Once the routes are built, you will be able to get, modify, delete and add all of the data that you need to for the application.
 
 Contribution guidelines:
 
