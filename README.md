@@ -15,7 +15,7 @@ In order to contribute to this page, you need to have permission from the reposi
 
 Sources:
 
-For this project, I did not have any starter code or copy any code from other projects or repositories. However, I did receive help from a tutor named Joem. 
+For this project, I did not have any starter code or copy any code from other projects or repositories. However, I did receive help from a tutor named Joem. I was having as issue with adding friends to users, as well as issues adding reactions to thoughts. Additionally, when I would attempt to grab this data using insomnia, it would always return an error. Joem helped me to debug this issue, which turned out to be coming from my routes. I needed to add two put routes that were previously forgotten, and this solved the issue. Additionally, I received help writing a few of the routes shown in insomnia in the walkthrough video.
 
 Link to walk through of Project:
 
